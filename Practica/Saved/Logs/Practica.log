@@ -1002,3 +1002,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.30-17.35.59:920][342]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
 [2020.01.30-17.36.01:082][403]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
 [2020.01.30-17.36.01:494][422]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.01.30-17.38.08:584][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.01.30-17.38.10:390][110]LogSavePackage: Moving '../../../../../../Users/PC1/Documents/Unreal/UnrealP1/Practica/Saved/Terrain_Auto1A299B2D74D181BCB3E5B43B33A4B5A06.tmp' to '../../../../../../Users/PC1/Documents/Unreal/UnrealP1/Practica/Saved/Autosaves/Game/Maps/Terrain_Auto1.umap'
+[2020.01.30-17.38.10:557][110]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Terrain' took 2.011
+[2020.01.30-17.38.10:557][110]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.011
+[2020.01.30-17.39.25:786][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.01.30-17.39.27:845][530]LogSlate: Window 'Guardar contenido' being destroyed
+[2020.01.30-17.39.27:900][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Terrain" FILE="../../../../../../Users/PC1/Documents/Unreal/UnrealP1/Practica/Content/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.01.30-17.39.27:932][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.01.30-17.39.29:202][530]LogSavePackage: Moving '../../../../../../Users/PC1/Documents/Unreal/UnrealP1/Practica/Saved/Terrain5EA9EA994A27C1D75C52B0A1053FDA31.tmp' to '../../../../../../Users/PC1/Documents/Unreal/UnrealP1/Practica/Content/Maps/Terrain.umap'
+[2020.01.30-17.39.29:252][530]LogFileHelpers: Saving map 'Terrain' took 1.356
+[2020.01.30-17.39.29:364][530]LogSlate: Window 'Practica - Unreal Editor' being destroyed
+[2020.01.30-17.39.29:660][530]AssetCheck: New page: Asset Save: Terrain
+[2020.01.30-17.39.29:660][530]LogContentValidation: Display: Validating World /Game/Maps/Terrain.Terrain
+[2020.01.30-17.39.29:668][531]Cmd: QUIT_EDITOR
+[2020.01.30-17.39.29:668][531]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.01.30-17.39.29:702][531]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.01.30-17.39.29:703][531]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.01.30-17.39.29:715][531]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.01.30-17.39.29:730][531]LogExit: Preparing to exit.
+[2020.01.30-17.39.30:792][531]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.30-17.39.30:818][531]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.01.30-17.39.30:868][531]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.01.30-17.39.30:870][531]LogExit: Editor shut down
+[2020.01.30-17.39.30:871][531]LogExit: Transaction tracking system shut down
+[2020.01.30-17.39.31:308][531]LogExit: Object subsystem successfully closed.
+[2020.01.30-17.39.31:336][531]LogShaderCompilers: Display: Shaders left to compile 0
