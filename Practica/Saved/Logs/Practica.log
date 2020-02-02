@@ -1144,3 +1144,1160 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-17.49.20:623][ 42]AssetCheck: New page: Asset Save: Terrain
 [2020.02.02-17.49.20:623][ 42]LogContentValidation: Display: Validating World /Game/Maps/Terrain.Terrain
 [2020.02.02-17.49.21:181][ 42]LogAIModule: Creating AISystem for world Terrain
+[2020.02.02-17.49.57:035][846]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.02-17.50.23:093][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.02.02-17.50.23:095][427]LogMetaData: Removing '/Game/Blueprints/Confusion_BP.Confusion_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.02.02-17.50.23:095][427]LogMetaData: Removing '/Game/Blueprints/Confusion_BP.SKEL_Confusion_BP_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.02.02-17.50.23:095][427]LogMetaData: Removing '/Game/Blueprints/Confusion_BP.Confusion_BP_C' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.02.02-17.50.23:095][427]LogMetaData: Removing '/Game/Blueprints/Confusion_BP.Confusion_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.02.02-17.50.23:095][427]LogMetaData: Removing '/Game/Blueprints/Confusion_BP.Confusion_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.02.02-17.50.23:095][427]LogMetaData: Removing '/Game/Blueprints/Confusion_BP.Confusion_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/NewBlueprint.PackageMetaData'
+[2020.02.02-17.50.23:124][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Confusion_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Confusion_BP.uasset" SILENT=true
+[2020.02.02-17.50.23:135][427]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Confusion_BP1684A15F411989C58BB57A9DBBAE580D.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Confusion_BP.uasset'
+[2020.02.02-17.50.23:390][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.02.02-17.50.23:437][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.02.02-17.50.23:480][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.02-17.50.23:539][427]AssetCheck: New page: Asset Save: Confusion_BP
+[2020.02.02-17.50.23:539][427]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Confusion_BP.Confusion_BP
+[2020.02.02-17.50.24:474][535]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Confusion_BP.Confusion_BP
+[2020.02.02-17.52.45:682][357]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 E:\Downloads\Extra_Life.FBX)
+[2020.02.02-17.52.45:707][357]LogFbx: Loading FBX Scene from E:\Downloads\Extra_Life.FBX
+[2020.02.02-17.52.45:718][357]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.02-17.52.47:034][357]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.02-17.52.47:233][357]LogLinker: Failed to load '/Game/Geometry/Meshes/Extra_Life_tex': Can't find file.
+[2020.02.02-17.52.47:233][357]LogLinker: Failed to load '/Game/Geometry/Meshes/Extra_Life_tex': Can't find file.
+[2020.02.02-17.52.47:233][357]LogFbxMaterialImport: Warning: Unable to find Texture file C:\Users\pyanez.ECAMPAIGNPRO\Desktop\Mario Mushrooms\Extra Life_tex.png
+[2020.02.02-17.52.47:237][357]LogMaterial: Display: Missing cached shader map for material 02_-_Default, compiling. 
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.02.02-17.52.47:293][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.02-17.52.47:366][357]LogMaterial: Display: Missing cached shader map for material 08_-_Default, compiling. 
+[2020.02.02-17.52.47:488][357]LogMaterial: Display: Missing cached shader map for material 07_-_Default, compiling. 
+[2020.02.02-17.52.47:517][357]LogFbx: Display: Triangulating static mesh Object002
+[2020.02.02-17.52.47:753][357]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2020.02.02-17.52.47:771][357]LogStaticMesh: Building static mesh Extra_Life...
+[2020.02.02-17.52.47:848][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 26
+[2020.02.02-17.52.47:848][357]LogStaticMesh: Built static mesh [0.08s] /Game/Geometry/Meshes/Extra_Life.Extra_Life
+[2020.02.02-17.52.47:884][357]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.02-17.52.48:397][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.02.02-17.52.48:397][358]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.02.02-17.52.48:397][358]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2020.02.02-17.52.48:397][358]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2020.02.02-17.52.48:491][359]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.02.02-17.52.48:491][359]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.02.02-17.52.48:733][368]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.02.02-17.52.48:904][380]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.02.02-17.52.49:293][409]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.02.02-17.52.49:320][411]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.02.02-17.52.49:334][412]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2020.02.02-17.52.49:372][415]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.02-17.52.49:439][421]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.02-17.52.51:293][633]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-17.52.51:299][633]LogSlate: Window 'Message Log' being destroyed
+[2020.02.02-17.52.52:296][749]LogActorFactory: Actor Factory created Extra_Life
+[2020.02.02-17.52.52:678][793]LogActorFactory: Actor Factory created Extra_Life
+[2020.02.02-17.53.01:477][597]Cmd: DELETE
+[2020.02.02-17.53.01:477][597]Cmd: ACTOR DELETE
+[2020.02.02-17.53.01:478][597]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.02-17.53.01:551][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.02.02-17.53.01:552][597]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.02.02-17.53.32:535][160]LogMaterial: Display: Missing cached shader map for material master_rock_world_material, compiling. 
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 157
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 147
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 137
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 127
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 117
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 107
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 97
+[2020.02.02-17.53.32:683][161]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 87
+[2020.02.02-17.53.34:798][356]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 77
+[2020.02.02-17.53.35:084][383]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2020.02.02-17.53.35:118][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2020.02.02-17.53.35:150][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2020.02.02-17.53.36:231][497]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2020.02.02-17.53.36:425][517]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2020.02.02-17.53.36:563][533]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2020.02.02-17.53.36:622][539]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.02.02-17.53.37:042][576]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.02.02-17.53.37:101][580]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.02.02-17.53.37:315][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.02.02-17.53.37:326][601]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.02.02-17.53.37:484][617]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.02.02-17.53.38:102][680]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.02.02-17.53.38:110][681]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2020.02.02-17.53.38:206][686]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.02-17.53.38:275][690]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.02.02-17.53.38:344][694]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.02.02-17.53.38:394][698]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.02.02-17.53.38:482][707]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.02-17.53.38:644][723]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.02-17.54.04:163][544]LogTexture: Display: Building textures: leaves_tree_rgm (AutoDXT, 2048X2048)
+[2020.02.02-17.54.04:163][544]LogTexture: Display: Building textures: leaves_tree_bsm (AutoDXT, 2048X2048)
+[2020.02.02-17.54.04:164][544]LogTexture: Display: Building textures: leaves_tree_nrm (BC5, 2048X2048)
+[2020.02.02-17.54.04:164][544]LogMaterial: Display: Missing cached shader map for material master_leaves, compiling. 
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 97
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 87
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 77
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 67
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2020.02.02-17.54.04:203][544]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.02.02-17.54.06:671][768]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.02.02-17.54.06:974][801]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.02.02-17.54.07:057][811]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.02.02-17.54.07:215][828]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.02.02-17.54.07:703][881]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.02.02-17.54.07:854][898]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.02.02-17.54.07:871][900]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.02.02-17.54.07:887][902]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.02.02-17.54.08:028][918]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.02.02-17.54.08:233][941]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.02.02-17.54.08:251][943]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.02-17.54.28:372][332]LogEditorTransaction: Undo Add Component
+[2020.02.02-17.54.51:731][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Confusion_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Confusion_BP.uasset" SILENT=true
+[2020.02.02-17.54.51:766][ 70]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Confusion_BPE0760D3B4DDCA6568D7E028084B9FD2A.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Confusion_BP.uasset'
+[2020.02.02-17.54.51:788][ 70]AssetCheck: New page: Asset Save: Confusion_BP
+[2020.02.02-17.54.51:788][ 70]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Confusion_BP.Confusion_BP
+[2020.02.02-17.54.52:200][118]BlueprintLog: New page: Compile Confusion_BP
+[2020.02.02-17.54.52:784][118]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2020.02.02-17.55.02:904][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.02.02-17.55.04:489][301]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.02-17.55.05:995][301]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-17.55.05:995][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-17.55.06:051][301]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/Confusion_BP.Confusion_BP
+[2020.02.02-17.55.07:156][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.02-17.55.07:569][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.02-17.55.07:615][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.02-17.55.07:657][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.02-17.55.10:385][583]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.02.02-17.55.15:577][583]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.02-17.55.21:562][281]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/Confusion_BP.Confusion_BP
+[2020.02.02-17.56.01:696][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Confusion_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Items/Confusion_BP.uasset" SILENT=true
+[2020.02.02-17.56.01:706][968]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Confusion_BP1E59483749B03996329FECB449B1589A.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Items/Confusion_BP.uasset'
+[2020.02.02-17.56.01:730][968]AssetCheck: New page: Asset Save: Confusion_BP
+[2020.02.02-17.56.01:730][968]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/Confusion_BP.Confusion_BP
+[2020.02.02-17.56.02:016][  2]BlueprintLog: New page: Compile Confusion_BP
+[2020.02.02-17.56.02:467][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.02.02-17.56.16:223][599]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Items/Key.Key
+[2020.02.02-17.57.30:852][378]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-17.59.40:803][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Confusion_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Items/Confusion_BP.uasset" SILENT=true
+[2020.02.02-17.59.40:814][610]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Confusion_BP8F8AF521461F9DA3DAA64892AE008C19.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Items/Confusion_BP.uasset'
+[2020.02.02-17.59.40:837][610]AssetCheck: New page: Asset Save: Confusion_BP
+[2020.02.02-17.59.40:837][610]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/Confusion_BP.Confusion_BP
+[2020.02.02-17.59.41:135][645]BlueprintLog: New page: Compile Confusion_BP
+[2020.02.02-17.59.41:137][645]LogBlueprint: Warning: [Compiler Confusion_BP] Could not find the function 'InvertControlls' called from  Invert Controlls
+[2020.02.02-17.59.41:606][645]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.02.02-17.59.45:928][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-17.59.45:959][148]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BPFD6E4CDF4FC279CCA46AE590C9AA026B.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-17.59.45:981][148]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-17.59.45:981][148]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-17.59.46:340][190]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-17.59.46:814][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2020.02.02-18.00.18:331][890]BlueprintLog: New page: Collapse to Macro
+[2020.02.02-18.00.29:516][196]LogSlate: Took 0.002277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.02.02-18.02.05:021][492]Cmd: TRANSACTION UNDO
+[2020.02.02-18.02.05:021][492]LogEditorTransaction: Undo Add Variable
+[2020.02.02-18.02.05:465][520]Cmd: TRANSACTION UNDO
+[2020.02.02-18.02.05:465][520]LogEditorTransaction: Undo Move Node
+[2020.02.02-18.02.05:992][582]Cmd: TRANSACTION UNDO
+[2020.02.02-18.02.05:992][582]LogEditorTransaction: Undo Remove Parameter
+[2020.02.02-18.02.06:369][624]Cmd: TRANSACTION UNDO
+[2020.02.02-18.02.06:369][624]LogEditorTransaction: Undo Move Node
+[2020.02.02-18.02.07:044][703]Cmd: TRANSACTION UNDO
+[2020.02.02-18.02.07:044][703]LogEditorTransaction: Undo Create Pin Link
+[2020.02.02-18.02.12:979][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2020.02.02-18.02.13:424][396]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonExampleMap_Auto15A8E8F984A8D5A031486E2AA0CE53660.tmp' to 'E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.02.02-18.02.13:427][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.506
+[2020.02.02-18.02.13:427][396]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.506
+[2020.02.02-18.02.13:428][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/ThirdPersonCharacter_BP] ([1] browsable assets)...
+[2020.02.02-18.02.13:440][396]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP]
+[2020.02.02-18.02.13:440][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/ThirdPersonCharacter_BP]
+[2020.02.02-18.02.13:463][396]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP_Auto1833460DA4453DCDAFA3E2F891EE9CA13.tmp' to 'E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Blueprints/ThirdPersonCharacter_BP_Auto1.uasset'
+[2020.02.02-18.02.13:464][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Extra_Life] ([1] browsable assets)...
+[2020.02.02-18.02.13:476][396]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/Extra_Life.Extra_Life]
+[2020.02.02-18.02.13:476][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Extra_Life]
+[2020.02.02-18.02.13:476][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Extra_Life" FILE="E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/Extra_Life_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.02-18.02.13:500][396]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Extra_Life_Auto1DE433EA6437E8C3D9DEE629D7B92F2CD.tmp' to 'E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/Extra_Life_Auto1.uasset'
+[2020.02.02-18.02.13:501][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/02_-_Default] ([1] browsable assets)...
+[2020.02.02-18.02.13:513][396]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/02_-_Default.02_-_Default]
+[2020.02.02-18.02.13:513][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/02_-_Default]
+[2020.02.02-18.02.13:513][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/02_-_Default" FILE="E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/02_-_Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.02-18.02.13:524][396]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/02_-_Default_Auto1DC8544DB490ECE9D9CECF2B609D0D090.tmp' to 'E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/02_-_Default_Auto1.uasset'
+[2020.02.02-18.02.13:525][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/07_-_Default] ([1] browsable assets)...
+[2020.02.02-18.02.13:537][396]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/07_-_Default.07_-_Default]
+[2020.02.02-18.02.13:537][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/07_-_Default]
+[2020.02.02-18.02.13:537][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/07_-_Default" FILE="E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/07_-_Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.02-18.02.13:548][396]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/07_-_Default_Auto1648314914DF5AAF6F18AB0B8694A3766.tmp' to 'E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/07_-_Default_Auto1.uasset'
+[2020.02.02-18.02.13:549][396]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/08_-_Default] ([1] browsable assets)...
+[2020.02.02-18.02.13:560][396]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Meshes/08_-_Default.08_-_Default]
+[2020.02.02-18.02.13:560][396]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/08_-_Default]
+[2020.02.02-18.02.13:560][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/08_-_Default" FILE="E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/08_-_Default_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.02-18.02.13:573][396]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/08_-_Default_Auto158DC2E2A4703D9C4E98AB49FC3F79723.tmp' to 'E:/Escritorio/Unreal/Practica/Saved/Autosaves/Game/Geometry/Meshes/08_-_Default_Auto1.uasset'
+[2020.02.02-18.02.13:573][396]LogFileHelpers: Auto-saving content packages took 0.146
+[2020.02.02-18.02.14:146][456]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-18.02.14:614][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.02-18.06.31:356][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.06.31:382][242]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP821B3D894C9E83539B1B009D5282BD51.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.06.31:407][242]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.06.31:407][242]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.06.32:014][314]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-18.06.32:502][314]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.02.02-18.08.15:644][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.08.15:669][459]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP754C47D14D32A65C82C09E85358454AE.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.08.15:690][459]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.08.15:690][459]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.08.16:222][521]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-18.08.16:702][521]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.02.02-18.08.28:556][920]BlueprintLog: New page: Compile Confusion_BP
+[2020.02.02-18.08.29:021][920]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.02.02-18.08.35:629][686]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.08.35:653][686]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.08.35:653][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.08.35:653][686]PIE: New page: PIE session: ThirdPersonExampleMap (2 Feb 2020, 20:08:35)
+[2020.02.02-18.08.35:654][686]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.08.35:662][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007796s)
+[2020.02.02-18.08.35:662][686]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-18.08.35:662][686]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2020.02.02-18.08.35:662][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008871s)
+[2020.02.02-18.08.35:720][686]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.02.02-18.08.35:721][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.08.35:722][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.08.35:722][686]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.08.35:722][686]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.08.35:737][686]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.08.35:738][686]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.08.35:757][686]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.08.35:760][686]LogInit: FAudioDevice initialized.
+[2020.02.02-18.08.35:770][686]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.08.35:772][686]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.02-19.08.35
+[2020.02.02-18.08.35:772][686]LogWorld: Bringing up level for play took: 0.000937
+[2020.02.02-18.08.35:772][686]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.02.02-18.08.35:775][686]LogBlueprintUserMessages: [Door_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.08.35:775][686]LogBlueprintUserMessages: [CoinDoor_BP_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.08.35:775][686]LogBlueprintUserMessages: [KeyDoor_BP_2] X=0.643 Y=0.766 Z=0.000
+[2020.02.02-18.08.35:775][686]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.888
+[2020.02.02-18.08.35:775][686]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.08.40:090][201]LogBlueprintUserMessages: [KeyDoor_BP_2] You need the key
+[2020.02.02-18.08.40:683][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.08.40:683][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.08.40:683][272]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.08.40:683][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.08.40:683][272]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.08.40:683][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.08.40:683][272]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.08.40:684][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.08.40:700][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.08.40:700][272]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.08.40:708][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.08.40:755][272]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.08.40:759][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.08.40:764][272]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.02.02-18.08.40:785][273]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.02.02-18.08.56:567][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Confusion_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Items/Confusion_BP.uasset" SILENT=true
+[2020.02.02-18.08.56:586][144]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Confusion_BP3A85F6EE4D062366472369923986B096.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Items/Confusion_BP.uasset'
+[2020.02.02-18.08.56:604][144]AssetCheck: New page: Asset Save: Confusion_BP
+[2020.02.02-18.08.56:604][144]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Items/Confusion_BP.Confusion_BP
+[2020.02.02-18.09.21:936][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.09.21:961][143]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP94F8441B4CD78C953F3F6494C3FA6926.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.09.21:982][143]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.09.21:982][143]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.09.22:355][187]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-18.09.22:851][187]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.02.02-18.09.24:293][354]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.09.24:317][354]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.24:317][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.09.24:317][354]PIE: New page: PIE session: ThirdPersonExampleMap (2 Feb 2020, 20:09:24)
+[2020.02.02-18.09.24:317][354]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.09.24:325][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007589s)
+[2020.02.02-18.09.24:326][354]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-18.09.24:326][354]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.02.02-18.09.24:326][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008922s)
+[2020.02.02-18.09.24:381][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.09.24:381][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.09.24:381][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.09.24:382][354]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.09.24:382][354]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.09.24:395][354]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.09.24:396][354]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.09.24:409][354]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.09.24:411][354]LogInit: FAudioDevice initialized.
+[2020.02.02-18.09.24:422][354]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.09.24:423][354]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.02-19.09.24
+[2020.02.02-18.09.24:423][354]LogWorld: Bringing up level for play took: 0.000903
+[2020.02.02-18.09.24:423][354]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.02.02-18.09.24:426][354]LogBlueprintUserMessages: [Door_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.09.24:426][354]LogBlueprintUserMessages: [CoinDoor_BP_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.09.24:426][354]LogBlueprintUserMessages: [KeyDoor_BP_2] X=0.643 Y=0.766 Z=0.000
+[2020.02.02-18.09.24:426][354]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.462
+[2020.02.02-18.09.24:426][354]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.26:508][602]LogBlueprintUserMessages: [KeyDoor_BP_2] You need the key
+[2020.02.02-18.09.32:560][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.09.32:586][328]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.02-18.09.32:606][328]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.02-18.09.32:607][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.32:607][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.09.32:607][328]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.09.32:607][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.09.32:607][328]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.09.32:607][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.09.32:623][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.09.32:623][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.32:630][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.09.32:682][328]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.09.32:685][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.09.32:690][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.02.02-18.09.32:711][329]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.02.02-18.09.42:225][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.09.42:250][438]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BPCD4BBC90484460D086E807AB4DC46AA2.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.09.42:270][438]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.09.42:270][438]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.09.42:573][473]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-18.09.43:074][473]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.02.02-18.09.44:290][613]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.09.44:324][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.44:324][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.09.44:324][613]PIE: New page: PIE session: ThirdPersonExampleMap (2 Feb 2020, 20:09:44)
+[2020.02.02-18.09.44:324][613]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.09.44:332][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007708s)
+[2020.02.02-18.09.44:333][613]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-18.09.44:333][613]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2020.02.02-18.09.44:333][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008909s)
+[2020.02.02-18.09.44:393][613]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.09.44:393][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.09.44:393][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.09.44:394][613]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.09.44:394][613]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.09.44:407][613]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.09.44:421][613]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.09.44:422][613]LogInit: FAudioDevice initialized.
+[2020.02.02-18.09.44:429][613]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.09.44:430][613]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.02-19.09.44
+[2020.02.02-18.09.44:430][613]LogWorld: Bringing up level for play took: 0.000938
+[2020.02.02-18.09.44:430][613]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2020.02.02-18.09.44:432][613]LogBlueprintUserMessages: [Door_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.09.44:432][613]LogBlueprintUserMessages: [CoinDoor_BP_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.09.44:432][613]LogBlueprintUserMessages: [KeyDoor_BP_2] X=0.643 Y=0.766 Z=0.000
+[2020.02.02-18.09.44:433][613]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.456
+[2020.02.02-18.09.44:433][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.53:907][748]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.09.53:916][748]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.02-18.09.53:936][748]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.02-18.09.53:936][748]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.53:937][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.09.53:937][748]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.09.53:937][748]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.09.53:937][748]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.09.53:937][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.09.53:950][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.09.53:950][748]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.09.53:957][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.09.54:008][748]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.09.54:012][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.09.54:017][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.02.02-18.09.54:039][749]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.02.02-18.10.17:260][ 69]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-18.10.37:629][ 29]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.02-18.10.50:349][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.10.50:375][493]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP3B05522E4094F3419967478EC9D4F9C9.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.10.50:397][493]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.10.50:397][493]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.10.50:753][534]BlueprintLog: New page: Compile ThirdPersonCharacter_BP
+[2020.02.02-18.10.51:271][534]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.02.02-18.10.54:934][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.10.54:960][959]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP63B0A9A74535289194618E81BD5E4BD4.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.10.54:984][959]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.10.54:984][959]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.10.56:998][193]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.10.57:029][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.10.57:029][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.10.57:029][193]PIE: New page: PIE session: ThirdPersonExampleMap (2 Feb 2020, 20:10:57)
+[2020.02.02-18.10.57:029][193]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.10.57:037][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008116s)
+[2020.02.02-18.10.57:039][193]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-18.10.57:040][193]LogPlayLevel: PIE: World Init took: (0.002020s)
+[2020.02.02-18.10.57:040][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010322s)
+[2020.02.02-18.10.57:095][193]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.10.57:096][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.10.57:096][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.10.57:097][193]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.10.57:097][193]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.10.57:110][193]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.10.57:123][193]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.10.57:124][193]LogInit: FAudioDevice initialized.
+[2020.02.02-18.10.57:132][193]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.10.57:133][193]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.02-19.10.57
+[2020.02.02-18.10.57:133][193]LogWorld: Bringing up level for play took: 0.000903
+[2020.02.02-18.10.57:133][193]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.02.02-18.10.57:136][193]LogBlueprintUserMessages: [Door_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.10.57:136][193]LogBlueprintUserMessages: [CoinDoor_BP_2] X=1.000 Y=0.000 Z=0.000
+[2020.02.02-18.10.57:136][193]LogBlueprintUserMessages: [KeyDoor_BP_2] X=0.643 Y=0.766 Z=0.000
+[2020.02.02-18.10.57:136][193]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.248
+[2020.02.02-18.10.57:136][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.10.59:809][512]LogBlueprintUserMessages: [KeyDoor_BP_2] You need the key
+[2020.02.02-18.11.00:510][596]LogBlueprintUserMessages: [ThirdPersonCharacter_BP_C_0] Inverted Controlls
+[2020.02.02-18.11.05:501][195]LogBlueprintUserMessages: [ThirdPersonCharacter_BP_C_0] Normal Controlls
+[2020.02.02-18.11.07:590][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.07:590][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.07:590][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.11.07:590][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.11.07:590][440]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.11.07:590][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.07:590][440]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.11.07:591][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.11.07:604][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.11.07:604][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.11.07:611][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.11.07:662][440]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.07:666][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.11.07:671][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.02.02-18.11.07:693][441]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.02.02-18.11.17:818][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/Door_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/Door_BP.uasset" SILENT=true
+[2020.02.02-18.11.17:848][626]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Door_BPBF6EDBE645AEAE7F2EAF28A222819EF4.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/Door_BP.uasset'
+[2020.02.02-18.11.17:867][626]AssetCheck: New page: Asset Save: Door_BP
+[2020.02.02-18.11.17:867][626]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Doors/Door_BP.Door_BP
+[2020.02.02-18.11.18:461][696]BlueprintLog: New page: Compile Door_BP
+[2020.02.02-18.11.19:015][696]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.02.02-18.11.22:953][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/CoinDoor_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/CoinDoor_BP.uasset" SILENT=true
+[2020.02.02-18.11.22:979][147]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/CoinDoor_BP65EADF0F4FA6F632DB99E7A3D864849C.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/CoinDoor_BP.uasset'
+[2020.02.02-18.11.22:998][147]AssetCheck: New page: Asset Save: CoinDoor_BP
+[2020.02.02-18.11.22:998][147]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Doors/CoinDoor_BP.CoinDoor_BP
+[2020.02.02-18.11.23:367][191]BlueprintLog: New page: Compile CoinDoor_BP
+[2020.02.02-18.11.23:845][191]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.02.02-18.11.27:793][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/KeyDoor_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/KeyDoor_BP.uasset" SILENT=true
+[2020.02.02-18.11.27:815][647]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/KeyDoor_BPDD409500481FC7D2B03958B647DBF79D.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/KeyDoor_BP.uasset'
+[2020.02.02-18.11.27:838][647]AssetCheck: New page: Asset Save: KeyDoor_BP
+[2020.02.02-18.11.27:838][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Doors/KeyDoor_BP.KeyDoor_BP
+[2020.02.02-18.11.28:179][687]BlueprintLog: New page: Compile KeyDoor_BP
+[2020.02.02-18.11.28:654][687]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.02.02-18.11.36:746][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Doors/LightDoor_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/LightDoor_BP.uasset" SILENT=true
+[2020.02.02-18.11.36:778][630]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/LightDoor_BP15E4384A4611858217685BA2F83288C8.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/Doors/LightDoor_BP.uasset'
+[2020.02.02-18.11.36:799][630]AssetCheck: New page: Asset Save: LightDoor_BP
+[2020.02.02-18.11.36:799][630]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Doors/LightDoor_BP.LightDoor_BP
+[2020.02.02-18.11.37:347][695]BlueprintLog: New page: Compile LightDoor_BP
+[2020.02.02-18.11.37:832][695]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.02.02-18.11.41:615][119]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.11.41:649][119]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.11.41:650][119]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.11.41:650][119]PIE: New page: PIE session: ThirdPersonExampleMap (2 Feb 2020, 20:11:41)
+[2020.02.02-18.11.41:650][119]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.11.41:657][119]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007278s)
+[2020.02.02-18.11.41:658][119]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-18.11.41:658][119]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2020.02.02-18.11.41:658][119]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008578s)
+[2020.02.02-18.11.41:714][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.11.41:715][119]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.11.41:715][119]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.11.41:716][119]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.11.41:716][119]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.11.41:729][119]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.11.41:742][119]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.11.41:743][119]LogInit: FAudioDevice initialized.
+[2020.02.02-18.11.41:750][119]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.11.41:751][119]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.02.02-19.11.41
+[2020.02.02-18.11.41:751][119]LogWorld: Bringing up level for play took: 0.000894
+[2020.02.02-18.11.41:751][119]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.02.02-18.11.41:754][119]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.866
+[2020.02.02-18.11.41:754][119]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.11.43:085][277]LogBlueprintUserMessages: [ThirdPersonCharacter_BP_C_0] Inverted Controlls
+[2020.02.02-18.11.44:302][423]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.44:326][423]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.02-18.11.44:346][423]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.02-18.11.44:346][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.11.44:346][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.11.44:346][423]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.02.02-18.11.44:346][423]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.44:346][423]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.11.44:347][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.11.44:363][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.11.44:363][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.02.02-18.11.44:371][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.11.44:420][423]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.11.44:423][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.11.44:428][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.02-18.11.44:452][424]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.02.02-18.12.01:441][287]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Terrain.Terrain
+[2020.02.02-18.12.01:490][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-18.12.04:624][287]LogSlate: Window 'Save Content' being destroyed
+[2020.02.02-18.12.04:636][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/02_-_Default" FILE="E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/02_-_Default.uasset" SILENT=true
+[2020.02.02-18.12.04:643][287]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/02_-_Default285963F34D0FED99DCCF258DE77337DF.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/02_-_Default.uasset'
+[2020.02.02-18.12.04:646][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/07_-_Default" FILE="E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/07_-_Default.uasset" SILENT=true
+[2020.02.02-18.12.04:653][287]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/07_-_Default4A246A67464F09306F66909D3A7893BA.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/07_-_Default.uasset'
+[2020.02.02-18.12.04:657][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/08_-_Default" FILE="E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/08_-_Default.uasset" SILENT=true
+[2020.02.02-18.12.04:663][287]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/08_-_DefaultB40572634785B6921940A1ACDE38B4AA.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/08_-_Default.uasset'
+[2020.02.02-18.12.04:666][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Extra_Life" FILE="E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/Extra_Life.uasset" SILENT=true
+[2020.02.02-18.12.04:686][287]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Extra_Life6D8A7F574E5C9B9FB3281C8068DF4658.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Geometry/Meshes/Extra_Life.uasset'
+[2020.02.02-18.12.04:691][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Terrain" FILE="E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.02-18.12.04:981][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.02.02-18.12.06:851][287]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/TerrainE48AE0504F79B3D6330EBAA57A2AF6B6.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap'
+[2020.02.02-18.12.06:890][287]LogFileHelpers: Saving map 'Terrain' took 2.201
+[2020.02.02-18.12.06:957][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.02-18.12.07:421][287]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonExampleMapC9E1E5414BF4625BD0756EA8DDAF736D.tmp' to 'E:/Escritorio/Unreal/Practica/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.02-18.12.07:449][287]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.558
+[2020.02.02-18.12.07:450][287]Cmd: MAP LOAD FILE="E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-18.12.07:450][287]LightingResults: New page: Lighting Build
+[2020.02.02-18.12.07:451][287]LoadErrors: New page: Loading map: Terrain.umap
+[2020.02.02-18.12.07:451][287]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.12.07:451][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.12.07:451][287]MapCheck: New page: Map Check
+[2020.02.02-18.12.07:451][287]LightingResults: New page: Lighting Build
+[2020.02.02-18.12.07:509][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.02.02-18.12.08:277][287]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-18.12.08:345][287]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.02.02-18.12.08:365][287]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-18.12.08:365][287]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2020.02.02-18.12.08:365][287]LogFileHelpers: Loading map 'Terrain' took 0.917
+[2020.02.02-18.12.08:446][287]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.02-18.12.08:446][287]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/02_-_Default.02_-_Default
+[2020.02.02-18.12.08:446][287]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/07_-_Default.07_-_Default
+[2020.02.02-18.12.08:446][287]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/08_-_Default.08_-_Default
+[2020.02.02-18.12.08:446][287]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/Extra_Life.Extra_Life
+[2020.02.02-18.12.08:446][287]LogContentValidation: Display: Validating World /Game/Maps/Terrain.Terrain
+[2020.02.02-18.12.08:446][287]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.02-18.12.08:515][287]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.02.02-18.12.24:945][157]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.02-18.12.52:102][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Terrain" FILE="E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.02-18.12.52:159][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.02-18.12.53:989][364]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/TerrainB762B18A4E9E1A3BE7FF128EA3541B13.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap'
+[2020.02.02-18.12.54:040][364]AssetCheck: New page: Asset Save: Terrain
+[2020.02.02-18.12.54:040][364]LogContentValidation: Display: Validating World /Game/Maps/Terrain.Terrain
+[2020.02.02-18.13.17:114][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ThirdPersonCharacter_BP" FILE="E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset" SILENT=true
+[2020.02.02-18.13.17:145][ 61]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonCharacter_BP1016231948E3F1FCF9FB28A20C40729C.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Blueprints/ThirdPersonCharacter_BP.uasset'
+[2020.02.02-18.13.17:165][ 61]AssetCheck: New page: Asset Save: ThirdPersonCharacter_BP
+[2020.02.02-18.13.17:166][ 61]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/ThirdPersonCharacter_BP.ThirdPersonCharacter_BP
+[2020.02.02-18.13.19:157][287]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.13.19:214][287]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.02-18.13.19:218][287]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter_BP before play...
+[2020.02.02-18.13.19:732][287]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.02-18.13.19:735][287]LogPlayLevel: PlayLevel: Blueprint regeneration took 521 ms (1 blueprints)
+[2020.02.02-18.13.19:736][287]PIE: New page: PIE session: Terrain (2 Feb 2020, 20:13:19)
+[2020.02.02-18.13.19:736][287]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Terrain
+[2020.02.02-18.13.20:206][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.470108s)
+[2020.02.02-18.13.20:207][287]LogAIModule: Creating AISystem for world Terrain
+[2020.02.02-18.13.20:207][287]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2020.02.02-18.13.20:207][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Terrain.Terrain to /Game/Maps/UEDPIE_0_Terrain.Terrain (0.471205s)
+[2020.02.02-18.13.20:257][287]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.13.20:259][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.13.20:259][287]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.13.20:259][287]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.13.20:274][287]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.13.20:288][287]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.13.20:290][287]LogInit: FAudioDevice initialized.
+[2020.02.02-18.13.20:300][287]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.13.20:325][287]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2020.02.02-19.13.20
+[2020.02.02-18.13.20:325][287]LogWorld: Bringing up level for play took: 0.025300
+[2020.02.02-18.13.20:325][287]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.02.02-18.13.20:329][287]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Terrain 1.441
+[2020.02.02-18.13.21:435][411]LogBlueprintUserMessages: [DeadzoneBlueprint] Mori xD
+[2020.02.02-18.13.22:061][486]LogBlueprintUserMessages: [DeadzoneBlueprint] Mori xD
+[2020.02.02-18.13.22:361][522]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.22:386][522]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.02-18.13.22:406][522]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.02-18.13.22:406][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.13.22:406][522]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Terrain
+[2020.02.02-18.13.22:406][522]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.22:407][522]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.22:411][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.22:423][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.13.22:432][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.22:483][522]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.22:487][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.13.22:517][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.02-18.13.22:535][523]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.02.02-18.13.25:806][906]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-18.13.25:827][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-18.13.25:827][906]PIE: New page: PIE session: Terrain (2 Feb 2020, 20:13:25)
+[2020.02.02-18.13.25:827][906]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Terrain
+[2020.02.02-18.13.26:287][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.459893s)
+[2020.02.02-18.13.26:288][906]LogAIModule: Creating AISystem for world Terrain
+[2020.02.02-18.13.26:288][906]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2020.02.02-18.13.26:288][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Terrain.Terrain to /Game/Maps/UEDPIE_0_Terrain.Terrain (0.461333s)
+[2020.02.02-18.13.26:342][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.02-18.13.26:344][906]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.02-18.13.26:344][906]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.02-18.13.26:344][906]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Name: Altavoces (Realtek(R) Audio)
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Is Default: Yes
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: Channel Order:
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.02-18.13.26:358][906]LogAudioMixer: Display: 1: FrontRight
+[2020.02.02-18.13.26:371][906]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2020.02.02-18.13.26:372][906]LogInit: FAudioDevice initialized.
+[2020.02.02-18.13.26:380][906]LogLoad: Game class is 'GameMode_BP_C'
+[2020.02.02-18.13.26:405][906]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Terrain.Terrain up for play (max tick rate 0) at 2020.02.02-19.13.26
+[2020.02.02-18.13.26:405][906]LogWorld: Bringing up level for play took: 0.024761
+[2020.02.02-18.13.26:405][906]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.02.02-18.13.26:409][906]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Terrain 1.521
+[2020.02.02-18.13.30:785][422]LogBlueprintUserMessages: [GameMode_BP_C_0] Coins: 1
+[2020.02.02-18.13.32:419][618]LogBlueprintUserMessages: [GameMode_BP_C_0] Coins: 2
+[2020.02.02-18.13.43:895][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.43:906][995]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.02-18.13.43:926][995]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.02-18.13.43:926][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.13.43:926][995]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Terrain
+[2020.02.02-18.13.43:927][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.43:927][995]LogWorld: UWorld::CleanupWorld for Terrain, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.43:931][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.43:945][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-18.13.43:954][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.44:002][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.44:005][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-18.13.44:037][995]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.02.02-18.13.44:057][996]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.02.02-18.13.45:273][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Terrain" FILE="E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.02-18.13.45:323][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-18.13.47:196][134]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/Terrain0748A29D4F2F0E1504AD38891FB039C4.tmp' to 'E:/Escritorio/Unreal/Practica/Content/Maps/Terrain.umap'
+[2020.02.02-18.13.47:246][134]AssetCheck: New page: Asset Save: Terrain
+[2020.02.02-18.13.47:247][134]LogContentValidation: Display: Validating World /Game/Maps/Terrain.Terrain
+[2020.02.02-18.13.49:979][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.02.02-18.13.51:580][444]LogSlate: Window 'Save Content' being destroyed
+[2020.02.02-18.13.51:670][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.02-18.13.52:105][444]LogSavePackage: Moving 'E:/Escritorio/Unreal/Practica/Saved/ThirdPersonExampleMap20AF257F40675301A2B5FB97B72F06BA.tmp' to 'E:/Escritorio/Unreal/Practica/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.02.02-18.13.52:114][444]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.508
+[2020.02.02-18.13.52:132][444]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.02.02-18.13.52:132][444]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.02.02-18.13.53:564][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.02.02-18.13.53:632][601]LogSlate: Window 'Practica - Unreal Editor' being destroyed
+[2020.02.02-18.13.53:694][601]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.53:694][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.53:750][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-18.13.53:750][601]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.53:750][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.53:805][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-18.13.53:805][601]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.53:805][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.53:858][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-18.13.53:858][601]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.53:858][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.53:915][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-18.13.53:915][601]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.53:915][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.53:971][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-18.13.53:971][601]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.53:971][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.54:024][601]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.02-18.13.54:024][601]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.54:024][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.02-18.13.54:151][602]Cmd: QUIT_EDITOR
+[2020.02.02-18.13.54:151][602]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.02.02-18.13.54:161][602]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.02.02-18.13.54:161][602]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.02-18.13.54:383][602]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.02-18.13.54:394][602]LogExit: Preparing to exit.
+[2020.02.02-18.13.55:238][602]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:239][602]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:239][602]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:240][602]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:240][602]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.02-18.13.55:240][602]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.02-18.13.55:257][602]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.02-18.13.55:293][602]LogExit: Editor shut down
+[2020.02.02-18.13.55:294][602]LogExit: Transaction tracking system shut down
+[2020.02.02-18.13.56:183][602]LogFileManager: Warning: DeleteFile was unable to delete 'E:/Escritorio/Unreal/Practica/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2020.02.02-18.13.56:183][602]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.02.02-18.13.56:183][602]LogExit: Object subsystem successfully closed.
+[2020.02.02-18.13.56:203][602]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (706)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module MeshBuilder (704)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (702)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module Voice (700)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module BlueprintGraph (698)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.02.02-18.13.56:237][602]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.02.02-18.13.56:238][602]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.02.02-18.13.56:238][602]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.02.02-18.13.56:238][602]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.02.02-18.13.56:239][602]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.02.02-18.13.56:240][602]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.02.02-18.13.56:240][602]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.02.02-18.13.56:240][602]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.02.02-18.13.56:240][602]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.02.02-18.13.56:834][602]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.02.02-18.13.56:867][602]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.02.02-18.13.56:879][602]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.02.02-18.13.56:880][602]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.02.02-18.13.56:880][602]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.02.02-18.13.56:880][602]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.02.02-18.13.56:881][602]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.02.02-18.13.56:881][602]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.02.02-18.13.56:881][602]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.02.02-18.13.56:882][602]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.02.02-18.13.56:887][602]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.02.02-18.13.56:943][602]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.02.02-18.13.56:944][602]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.02.02-18.13.57:045][602]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.02.02-18.13.57:146][602]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.02.02-18.13.57:146][602]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.02.02-18.13.57:146][602]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.02.02-18.13.57:147][602]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.02.02-18.13.57:147][602]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.02.02-18.13.57:147][602]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.02.02-18.13.57:147][602]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.02.02-18.13.57:147][602]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.02.02-18.13.57:148][602]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.02.02-18.13.57:148][602]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.02.02-18.13.57:148][602]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.02.02-18.13.57:148][602]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.02.02-18.13.57:148][602]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.02.02-18.13.57:150][602]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.02.02-18.13.57:151][602]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.02.02-18.13.57:152][602]LogDerivedDataCache: Shutdown
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.02.02-18.13.57:152][602]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.02.02-18.13.57:153][602]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.02.02-18.13.57:154][602]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.02.02-18.13.57:155][602]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.02.02-18.13.57:160][602]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.02.02-18.13.57:160][602]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.02.02-18.13.57:161][602]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.02.02-18.13.57:161][602]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.02.02-18.13.57:194][602]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.02.02-18.13.57:194][602]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.02.02-18.13.57:194][602]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED0B6452-47B7-F27B-35C9-72884D998890%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=8eda64974ef33d4e15ec1f83376eb425%7C3336b849231e4f809ca75dd48b12e687%7C72e4a029-705f-4aeb-a1d1-371fd1ab2deb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.02-18.13.57:194][602]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BED0B6452-47B7-F27B-35C9-72884D998890%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=8eda64974ef33d4e15ec1f83376eb425%7C3336b849231e4f809ca75dd48b12e687%7C72e4a029-705f-4aeb-a1d1-371fd1ab2deb&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.02.02-18.13.57:215][602]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.02.02-18.13.57:216][602]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.02.02-18.13.57:218][602]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.02-18.13.57:219][602]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.02-18.13.57:220][602]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.02-18.13.57:220][602]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.02-18.13.57:220][602]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.02-18.13.57:220][602]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.02-18.13.57:220][602]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.02-18.13.57:222][602]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.02-18.13.57:224][602]LogD3D11RHI: Shutdown
+[2020.02.02-18.13.57:224][602]LogD3D11RHI: CleanupD3DDevice
+[2020.02.02-18.13.57:242][602]LogExit: Exiting.
+[2020.02.02-18.13.57:309][602]Log file closed, 02/02/20 19:13:57
