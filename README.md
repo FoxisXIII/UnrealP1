@@ -1,9 +1,5 @@
 # Práctica 3
 
-Sofian Ben Ayata
-
-Erik Espuñes Juberó
-
 ## Consideraciones
 - La práctica se realizará en parejas.
 - El tiempo disponible para realizar la entrega es de 3 semanas aproximadamente.
